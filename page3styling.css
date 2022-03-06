@@ -1,0 +1,10 @@
+body{
+    background-color: darkred;
+    color: white;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 80 px;
+    font-family: "Impact", fantasy; 
+}

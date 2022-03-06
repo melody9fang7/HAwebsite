@@ -1,0 +1,10 @@
+body{
+    background-color: lemonchiffon;
+}
+
+h1{
+    color: darkgoldenrod;
+    font-size: 80 px;
+    font-family: "Brush Script MT", cursive; 
+}
+.centerTable { margin: 0px auto; }

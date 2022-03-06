@@ -1,0 +1,17 @@
+body{
+    background-color: darkseagreen;
+}
+
+h1{
+    color: white;
+    font-size: 80 px;
+    font-family: "Georgia", fantasy; 
+}
+
+h2{
+    color: darkslategrey;
+    font-size: 15 px;
+    font-family: "Arial", sans-serif;
+}
+
+
